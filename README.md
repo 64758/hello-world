@@ -1,2 +1,3 @@
 # hello-world
-学习如何使用 GitHub
+
+刚刚注册 GitHub，跟着教程做一遍，熟悉一下环境。
